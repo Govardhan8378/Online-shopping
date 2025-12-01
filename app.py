@@ -71,8 +71,8 @@ class ShoppingSystem:
 
 
 # ---------------- STREAMLIT APP ----------------
-st.set_page_config(page_title="Online Shopping System", layout="centered")
-st.title("🛒 Online Shopping System - Streamlit Version")
+st.set_page_config(page_title="Online Shopping System by GG", layout="centered")
+st.title("🛒 Online Shopping System -By Govardhan")
 
 system = ShoppingSystem()
 
